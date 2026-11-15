@@ -19,4 +19,4 @@
 
 ## Тесты
 
-    python -m unittest discover -v
+    py -m unittest discover -v
