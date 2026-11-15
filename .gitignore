@@ -1,0 +1,15 @@
+# Служебные файлы Python
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Отчёт о покрытии тестами
+.coverage
+htmlcov/
+
+# Настройки IDE
+.idea/
+.vscode/
