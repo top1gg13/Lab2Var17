@@ -62,7 +62,7 @@ def main():
             print("До свидания!")
             break
         else:
-            print("Выберите пункт от 0 до 2.")
+            print("Выберите пункт от 0 до 4.")
 
 if __name__ == "__main__":
     main()
